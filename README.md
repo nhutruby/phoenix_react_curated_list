@@ -1,4 +1,5 @@
-#Demo
+# Demo
+
 I built the app with front-end and back-end architecture to demo index, create, update, delete, show functions.
 
 * Phoenix API for the back-end
